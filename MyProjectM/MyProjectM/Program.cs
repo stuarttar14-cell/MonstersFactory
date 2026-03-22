@@ -63,6 +63,7 @@ public class Program
                 Console.WriteLine(monsters[i].GetName()); 
             }
         }
+        //thats what we changed
         Console.WriteLine("stuart the king");
         Console.WriteLine("Mati da GOAT");
         Console.WriteLine("...");
