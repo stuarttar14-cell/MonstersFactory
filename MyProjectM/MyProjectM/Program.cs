@@ -63,5 +63,6 @@ public class Program
                 Console.WriteLine(monsters[i].GetName()); 
             }
         }
+        Console.WriteLine("stuart the king");
     }
 }
