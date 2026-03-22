@@ -67,7 +67,5 @@ public class Program
         Console.WriteLine("stuart the king");
         Console.WriteLine("Mati da GOAT");
         Console.WriteLine("...");
-        
-        
     }
 }
