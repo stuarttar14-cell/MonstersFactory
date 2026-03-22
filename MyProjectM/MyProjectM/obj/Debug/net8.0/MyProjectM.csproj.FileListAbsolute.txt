@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyProjectM\MyProjectM\bin\Debug\net8.0\MyProjectM.exe
+C:\Users\User\source\repos\MyProjectM\MyProjectM\bin\Debug\net8.0\MyProjectM.deps.json
+C:\Users\User\source\repos\MyProjectM\MyProjectM\bin\Debug\net8.0\MyProjectM.runtimeconfig.json
+C:\Users\User\source\repos\MyProjectM\MyProjectM\bin\Debug\net8.0\MyProjectM.dll
+C:\Users\User\source\repos\MyProjectM\MyProjectM\bin\Debug\net8.0\MyProjectM.pdb
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.AssemblyInfo.cs
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.dll
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\refint\MyProjectM.dll
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.pdb
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\MyProjectM.genruntimeconfig.cache
+C:\Users\User\source\repos\MyProjectM\MyProjectM\obj\Debug\net8.0\ref\MyProjectM.dll
